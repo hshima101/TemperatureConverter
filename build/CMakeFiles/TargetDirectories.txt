@@ -1,0 +1,3 @@
+/Users/hideoshima/Desktop/c++Excercises /TempConverter/build/CMakeFiles/Temp.dir
+/Users/hideoshima/Desktop/c++Excercises /TempConverter/build/CMakeFiles/edit_cache.dir
+/Users/hideoshima/Desktop/c++Excercises /TempConverter/build/CMakeFiles/rebuild_cache.dir
